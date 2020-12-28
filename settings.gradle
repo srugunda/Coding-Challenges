@@ -1,0 +1,3 @@
+rootProject.name='50 Coding Interview Questions'
+include ':app'
+include ':lib'
